@@ -1,6 +1,8 @@
 # Material-Para-DAWeb_BD_5I
 Tenemos link de referencia mas documentos Agosto 2024
 
+Octavio Ozaeta Montiel
+
 ## Desarrollo web
 
 -desarrollo web en tecnologías fundamentales como CSS, HTML y JavaScript.
