@@ -23,8 +23,12 @@ Octavio Ozaeta Montiel
 
 - https://www.w3schools.com/
 
-- Python  https://www.w3schools.com/python/default.asp
+- Python
+-
+- https://www.w3schools.com/python/default.asp
 
+- descargar python
+  
 - https://www.python.org/downloads/
 
 - Programacion online
