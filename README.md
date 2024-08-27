@@ -34,3 +34,13 @@ Octavio Ozaeta Montiel
 - Programacion online
 
 - https://coddy.tech/
+
+- ![image](https://github.com/user-attachments/assets/5b933dd0-3c3e-49aa-8c15-f1e15cb7b23d)
+
+  # Diseño web con Figma
+
+  - https://www.figma.com/es-la/
+ 
+  - ![image](https://github.com/user-attachments/assets/8edbd4f3-eb50-444b-95f7-56c00376e58e)
+
+
